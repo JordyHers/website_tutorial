@@ -1,0 +1,60 @@
+
+body{
+margin: 0px;
+text-align: center;
+font-family: 'Merriweather Sans', sans-serif;
+font-style: normal;
+
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 4.625rem;
+  margin: 50px auto 0 auto;
+
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: indigo;
+  font-weight: normal;
+
+
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+
+}
+.header-images{
+  height: 16rem;
+}
+
+
+.top-container{
+background-color: #77acf1;
+position: relative;
+padding-top: 100px;
+}
+
+.middle-container{
+
+
+}
+
+.bottom-container{
+
+
+}
+
+.top-cloud{
+  position: absolute;
+  top: 45px;
+  right: 400px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+
+}
