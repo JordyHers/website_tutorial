@@ -16,7 +16,7 @@ h1{
 h2{
   font-family: 'Montserrat', sans-serif;
   font-size: 1.5rem;
-  color: indigo;
+  color: #77acf1;
   padding-bottom: 10px;
 }
 
@@ -26,6 +26,12 @@ h3{
 
 p{
     line-height: 2;
+}
+hr{
+  border: dotted #77acf1 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
 }
 .profile_img{
   width: 10%;
@@ -80,5 +86,5 @@ padding-top: 100px;
 .bottom-cloud{
   position: absolute;
   bottom: 300px;
-
+  left: 400px;
 }
