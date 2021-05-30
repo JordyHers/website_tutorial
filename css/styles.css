@@ -4,7 +4,7 @@ margin: 0px;
 text-align: center;
 font-family: 'Merriweather Sans', sans-serif;
 font-style: normal;
-
+color: #40514E;
 }
 h1{
   font-family: 'Sacramento', cursive;
@@ -17,17 +17,18 @@ h2{
   font-family: 'Montserrat', sans-serif;
   font-size: 1.5rem;
   color: indigo;
-  font-weight: normal;
-
-
+  padding-bottom: 10px;
 }
 
 h3{
   font-family: 'Montserrat', sans-serif;
-
 }
-.header-images{
-  height: 16rem;
+
+p{
+    line-height: 2;
+}
+.profile_img{
+  width: 10%;
 }
 
 
@@ -38,12 +39,35 @@ padding-top: 100px;
 }
 
 .middle-container{
+  padding-top:20px;
+}
 
+.skill-row{
+  width: 50%;
+  margin: 80px auto 200px auto;
+  text-align: left;
 
 }
 
-.bottom-container{
 
+.profile{
+  margin: 20px auto 100px auto;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.header-images1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.header-images2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
 
 }
 
